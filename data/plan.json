@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-06-18T14:43:54.276990",
+  "mode": "sma_local_only",
+  "rules": {
+    "short_window": 5,
+    "long_window": 20
+  },
+  "ideas": [
+    {
+      "symbol": "BTC/USD",
+      "latest_close": null,
+      "signal": "neutral",
+      "confidence": "low",
+      "note": "local only; expand this plan when backtest.py is completed with real bar history"
+    },
+    {
+      "symbol": "ETH/USD",
+      "latest_close": null,
+      "signal": "neutral",
+      "confidence": "low",
+      "note": "local only; expand this plan when backtest.py is completed with real bar history"
+    },
+    {
+      "symbol": "SOL/USD",
+      "latest_close": null,
+      "signal": "neutral",
+      "confidence": "low",
+      "note": "local only; expand this plan when backtest.py is completed with real bar history"
+    },
+    {
+      "symbol": "BNB/USD",
+      "latest_close": null,
+      "signal": "neutral",
+      "confidence": "low",
+      "note": "local only; expand this plan when backtest.py is completed with real bar history"
+    },
+    {
+      "symbol": "XRP/USD",
+      "latest_close": null,
+      "signal": "neutral",
+      "confidence": "low",
+      "note": "local only; expand this plan when backtest.py is completed with real bar history"
+    }
+  ]
+}
